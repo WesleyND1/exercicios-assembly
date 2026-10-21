@@ -19,7 +19,7 @@ Este repositório contém 12 exercícios desenvolvidos em *Assembly MIPS* e test
 
 ---
 
-## 📜 Descrição dos Exercícios
+## Descrição dos Exercícios
 
 | Exemplo/Arquivo | Descrição do Exercício |
 | :--- | :--- |
